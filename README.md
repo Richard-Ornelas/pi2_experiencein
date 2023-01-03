@@ -30,4 +30,4 @@ diegocard.pythonanywhere.com
 ## 🤝 Colaboradores
 Dr. Fábio Henrique
 ## 🖊️ Autor
-Diego Cardoso
+Richard Nicolas
